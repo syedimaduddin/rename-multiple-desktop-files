@@ -1,0 +1,1 @@
+While working on a project, I faced the problem of renaming a large number of files. In order to save time, I thought I would write Python code to automate the renaming process by changing only the last index. Now I'm able to change all the file names with just one click, which not only saves me time but also makes the process extremely fast.
